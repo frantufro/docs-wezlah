@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-xjdgi8.corerelationshiptherapy.com/sitemap.xml
